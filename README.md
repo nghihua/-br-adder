@@ -1,2 +1,5 @@
 # -br-adder
-Automatically adding &lt;br> to text file
+
+When copying text into html files, we have to manually add <br> tag after every paragraph.
+
+With this program, we just have to pass in the text file, and <br> tag will be added after every new line ('\n') character.
